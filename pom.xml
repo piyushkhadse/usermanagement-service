@@ -11,7 +11,7 @@
 	<groupId>com.twitter</groupId>
 	<artifactId>UserManagement-Service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>usermanagement-service</name>
+	<name>UserManagement-Service</name>
 	<description>Demo project for Twitter User Management Service</description>
 	<properties>
 		<java.version>1.8</java.version>
