@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.twitter</groupId>
-	<artifactId>usermanagement-service</artifactId>
+	<artifactId>UserManagement-Service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>usermanagement-service</name>
-	<description>Demo project for twitter usermanagement service</description>
+	<description>Demo project for Twitter User Management Service</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
